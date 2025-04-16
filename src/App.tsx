@@ -8,15 +8,16 @@ const headerItem: itemHeader[] =[
 ]
 
 const cardItem: itemsCard[] = [
-  { title: "Rápido" , text: "Estilize com classes e veja o resultado imediato." },
-  { title: "Responsivo" , text: "Classes responsivas tornam o design mais fácil." },
-  { title: "Customizável" , text: "Adapte as classes às suas necessidades." },
+  { title: "Rápido" , text: "Estilize com classes e veja o resultado imediato.", imgUrl: "/src/assets/fast-develop.webp"},
+  { title: "Responsivo" , text: "Classes responsivas tornam o design mais fácil.", imgUrl: "/src/assets/responsive.png"},
+  { title: "Customizável" , text: "Adapte as classes às suas necessidades.", imgUrl: "/src/assets/custom.png"},
 ]
+
 
 function App() {
   return (
-    <main className="flex justify-center">
-      <h2 className='text-6xl text-blue-400 font-bold'>Tailwind Workshop</h2>
+    <main className="space-y-4">
+      <h2 className="text-6xl text-blue-400 font-bold">Tailwind Workshop</h2>
 
     </main>
   )
