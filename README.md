@@ -19,5 +19,6 @@ Vamos criar uma **Landing Page minimalista** com os seguintes elementos:
 
 Aqui está um exemplo do que você pode esperar como resultado final:
 
-![Preview da Mini Aplicação](https://github.com/user-attachments/assets/f8ba4a66-87e2-4335-ac8f-adbbc0c03d49)
+![Preview da Mini Aplicação](https://github.com/user-attachments/assets/8bb40cae-9cf4-4a86-9f0b-c4de0b3e01cf)
+
 
